@@ -1,0 +1,32 @@
+﻿Compilación iniciada a las 05/08/2017 03:15:42 a.m..
+     1>Proyecto "C:\Users\Niko\Documents\Visual Studio 2013\Projects\ShadowBot\ShadowBot\ShadowBot.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SHADOWBOT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp ShadowBot.cpp xrand.cpp
+         xrand.cpp
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.hpp(17): warning C4200: se ha utilizado una extensión no estándar : matriz de tamaño cero en struct/union
+                 No se puede generar el constructor de copias o el operador de asignación de copias cuando el tipo definido por el usuario contiene una matriz de tamaño cero
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.hpp(25): warning C4200: se ha utilizado una extensión no estándar : matriz de tamaño cero en struct/union
+                 No se puede generar el constructor de copias o el operador de asignación de copias cuando el tipo definido por el usuario contiene una matriz de tamaño cero
+         ShadowBot.cpp
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.hpp(17): warning C4200: se ha utilizado una extensión no estándar : matriz de tamaño cero en struct/union
+                 No se puede generar el constructor de copias o el operador de asignación de copias cuando el tipo definido por el usuario contiene una matriz de tamaño cero
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.hpp(25): warning C4200: se ha utilizado una extensión no estándar : matriz de tamaño cero en struct/union
+                 No se puede generar el constructor de copias o el operador de asignación de copias cuando el tipo definido por el usuario contiene una matriz de tamaño cero
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.cpp(113): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.cpp(120): warning C4018: '<' : no coinciden signed/unsigned
+         main.cpp
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.hpp(17): warning C4200: se ha utilizado una extensión no estándar : matriz de tamaño cero en struct/union
+                 No se puede generar el constructor de copias o el operador de asignación de copias cuando el tipo definido por el usuario contiene una matriz de tamaño cero
+     1>c:\users\niko\documents\visual studio 2013\projects\shadowbot\shadowbot\shadowbot.hpp(25): warning C4200: se ha utilizado una extensión no estándar : matriz de tamaño cero en struct/union
+                 No se puede generar el constructor de copias o el operador de asignación de copias cuando el tipo definido por el usuario contiene una matriz de tamaño cero
+         Generando código...
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Niko\Documents\Visual Studio 2013\Projects\ShadowBot\Debug\ShadowBot.dll" /INCREMENTAL /NOLOGO detours.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Niko\Documents\Visual Studio 2013\Projects\ShadowBot\Debug\ShadowBot.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Niko\Documents\Visual Studio 2013\Projects\ShadowBot\Debug\ShadowBot.lib" /MACHINE:X86 /DLL Debug\main.obj
+         Debug\ShadowBot.obj
+         Debug\xrand.obj
+         ShadowBot.vcxproj -> C:\Users\Niko\Documents\Visual Studio 2013\Projects\ShadowBot\Debug\ShadowBot.dll
+     1>Compilación del proyecto terminada "C:\Users\Niko\Documents\Visual Studio 2013\Projects\ShadowBot\ShadowBot\ShadowBot.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.31
